@@ -1,6 +1,7 @@
+import HomePage from "@/components/template/Home";
 
 export default function Home() {
-  return (
-
-  );
+  return <>
+  <div><HomePage /></div>
+  </>;
 }
